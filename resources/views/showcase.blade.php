@@ -291,4 +291,154 @@
             </main>
         </div>
     </div>
+
+<footer aria-labelledby="footer-heading" class="bg-gray-900">
+    <h2 id="footer-heading" class="sr-only">Footer</h2>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="py-20 xl:grid xl:grid-cols-3 xl:gap-8">
+            <div class="grid grid-cols-2 gap-8 xl:col-span-2">
+                <div class="space-y-12 md:space-y-0 md:grid md:grid-cols-2 md:gap-8">
+                    <div>
+                        <h3 class="text-sm font-medium text-white">
+                            Shop
+                        </h3>
+                        <ul role="list" class="mt-6 space-y-6">
+                            <li class="text-sm">
+                                <a href="#" class="text-gray-300 hover:text-white">
+                                    Bags
+                                </a>
+                            </li>
+
+                            <li class="text-sm">
+                                <a href="#" class="text-gray-300 hover:text-white">
+                                    Tees
+                                </a>
+                            </li>
+
+                            <li class="text-sm">
+                                <a href="#" class="text-gray-300 hover:text-white">
+                                    Objects
+                                </a>
+                            </li>
+
+                            <li class="text-sm">
+                                <a href="#" class="text-gray-300 hover:text-white">
+                                    Home Goods
+                                </a>
+                            </li>
+
+                            <li class="text-sm">
+                                <a href="#" class="text-gray-300 hover:text-white">
+                                    Accessories
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3 class="text-sm font-medium text-white">
+                            Company
+                        </h3>
+                        <ul role="list" class="mt-6 space-y-6">
+                            <li class="text-sm">
+                                <a href="#" class="text-gray-300 hover:text-white">
+                                    Who we are
+                                </a>
+                            </li>
+
+                            <li class="text-sm">
+                                <a href="#" class="text-gray-300 hover:text-white">
+                                    Sustainability
+                                </a>
+                            </li>
+
+                            <li class="text-sm">
+                                <a href="#" class="text-gray-300 hover:text-white">
+                                    Press
+                                </a>
+                            </li>
+
+                            <li class="text-sm">
+                                <a href="#" class="text-gray-300 hover:text-white">
+                                    Careers
+                                </a>
+                            </li>
+
+                            <li class="text-sm">
+                                <a href="#" class="text-gray-300 hover:text-white">
+                                    Terms &amp; Conditions
+                                </a>
+                            </li>
+
+                            <li class="text-sm">
+                                <a href="#" class="text-gray-300 hover:text-white">
+                                    Privacy
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="space-y-12 md:space-y-0 md:grid md:grid-cols-2 md:gap-8">
+                    <div>
+                        <h3 class="text-sm font-medium text-white">
+                            Account
+                        </h3>
+                        <ul role="list" class="mt-6 space-y-6">
+                            <li class="text-sm">
+                                <a href="#" class="text-gray-300 hover:text-white">
+                                    Manage Account
+                                </a>
+                            </li>
+
+                            <li class="text-sm">
+                                <a href="#" class="text-gray-300 hover:text-white">
+                                    Returns &amp; Exchanges
+                                </a>
+                            </li>
+
+                            <li class="text-sm">
+                                <a href="#" class="text-gray-300 hover:text-white">
+                                    Redeem a Gift Card
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3 class="text-sm font-medium text-white">
+                            Connect
+                        </h3>
+                        <ul role="list" class="mt-6 space-y-6">
+                            <li class="text-sm">
+                                <a href="https://github.com/WillTheDeveloper" class="text-gray-300 hover:text-white">
+                                    Github
+                                </a>
+                            </li>
+
+                            <li class="text-sm">
+                                <a href="https://www.instagram.com/willdotchill/" class="text-gray-300 hover:text-white">
+                                    Instagram
+                                </a>
+                            </li>
+
+                            <li class="text-sm">
+                                <a href="https://twitter.com/WillDotChill" class="text-gray-300 hover:text-white">
+                                    Twitter
+                                </a>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="mt-12 md:mt-16 xl:mt-0">
+                <h3 class="text-sm font-medium text-white">Contact Details</h3>
+                <p class="mt-6 text-sm text-gray-300">Email - will@teamatlas.cloud</p>
+            </div>
+        </div>
+
+        <div class="border-t border-gray-800 py-10">
+            <p class="text-sm text-gray-400">Copyright &copy; {{now()->year}} - Will's Photography</p>
+        </div>
+    </div>
+</footer>
+
 </div>
