@@ -7,7 +7,7 @@
     <script src="//unpkg.com/alpinejs" defer></script>
 </head>
 
-<body x-data="{ mobileMenu: false }">
+<body x-data="{ mobileMenu: false }" class="select-none">
 
 <div class="bg-white">
     <!--
