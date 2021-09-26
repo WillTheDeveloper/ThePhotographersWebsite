@@ -192,7 +192,7 @@
                 </span>
                                 <span aria-hidden="true"
                                       class="absolute inset-x-0 bottom-0 h-2/3 bg-gradient-to-t from-gray-800 opacity-50"></span>
-                                <span class="relative mt-auto text-center text-xl font-bold text-white">50-200mm</span>
+                                <span class="relative mt-auto text-center text-xl font-bold text-white">55-200mm</span>
                             </a>
 
                             <a href="#"
