@@ -457,7 +457,7 @@
                 </div>
                 <div class="mt-12 md:mt-16 xl:mt-0">
                     <h3 class="text-sm font-medium text-white">Contact Details</h3>
-                    <p class="mt-6 text-sm text-gray-300">Email - will@teamatlas.cloud</p>
+                    <p class="mt-6 text-sm text-gray-300">Email - willthedeveloper13@gmail.com</p>
                 </div>
             </div>
 
