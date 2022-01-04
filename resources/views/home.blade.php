@@ -144,7 +144,7 @@
 
         <div class="relative max-w-3xl mx-auto py-32 px-6 flex flex-col items-center text-center sm:py-64 lg:px-0">
             <h1 class="text-4xl font-extrabold tracking-tight text-white lg:text-6xl">Will's Photography</h1>
-            <p class="mt-4 text-xl text-white">Welcome to my website, where I showcase all my photography.</p>
+            <p class="mt-4 text-xl text-white">Showcase of my photography.</p>
         </div>
     </div>
 
